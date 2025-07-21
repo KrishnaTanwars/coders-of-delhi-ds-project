@@ -48,50 +48,32 @@ Edit
 
 ---
 
-## 📌 How to Run
-
-1. Clone the repository:
-```bash
+## 🧩 How to Run
+Clone the repository
 git clone https://github.com/your-username/coders-of-delhi-ds-project.git
 cd coders-of-delhi-ds-project
-Run each module step-by-step:
 
-bash
-Copy
-Edit
+Run each module step-by-step
 python load_display_data.py
 python clean_data.py
 python people_you_may_know.py
 python pages_you_might_like.py
+
 📊 Sample Output
-text
-Copy
-Edit
 Users and Their Connections:
 Amit (ID: 1) - Friends: [2, 3] - Liked Pages: [101]
 ...
 
 People You May Know for User 1: [4]
 Pages You Might Like for User 1: [103]
-🎓 Internship Storyline
-This project follows a fun, job-simulation format:
 
+🎓 Internship Storyline
 You're hired as a Data Scientist Intern at CodeBook
 
-If you complete the tasks, you earn a ₹10 LPA offer!
+If you complete the tasks, you earn a ₹10 LPA offer
 
-Tasks are assigned by a fictional manager: Puneet Kumar 😄
+Tasks are assigned by your fictional manager Puneet Kumar 😄
 
 🛡 License
 This project is licensed under the MIT License.
 
-🙌 Credits
-Inspired by the “Coders of Delhi” handbook-style learning experience.
-
-Built entirely with ❤️ and raw Python — no libraries, just logic.
-
-yaml
-Copy
-Edit
-
----
